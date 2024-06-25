@@ -11,3 +11,9 @@
 *  Primetime模擬更詳細的使用時間(Time)、功率(Power)
 
 ## 結果
+*  Verilog輸出影像
+  
+  ![image](https://github.com/TingKaiHsu0525/sobel-filter/assets/145333999/e6e41c57-5a3c-4207-9c37-722147a20ce1)
+
+*  Modelsim
+    *     波形(Waveform)
