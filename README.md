@@ -14,6 +14,5 @@
 *  Verilog輸出影像
   
   ![image](https://github.com/TingKaiHsu0525/sobel-filter/assets/145333999/e6e41c57-5a3c-4207-9c37-722147a20ce1)
-
 *  Modelsim
-    *     波形(Waveform)
+    *   波形(Waveform)
