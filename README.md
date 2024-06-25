@@ -1,3 +1,8 @@
+![Static Badge](https://img.shields.io/badge/passing-gray?label=build&labelColor=gray&color=green) ![Static Badge](https://img.shields.io/badge/45.7%25-gray?label=Verilog&labelColor=gray&color=violet) ![Static Badge](https://img.shields.io/badge/39.7%25-gray?label=Jupyter&labelColor=gray&color=orange) ![Static Badge](https://img.shields.io/badge/14.6%25-gray?label=Python&labelColor=gray&color=navy)
+
+
+
+
 # sobel-filter
 *  原始影像、Python sobel filter運行結果
   
